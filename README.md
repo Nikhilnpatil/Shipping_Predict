@@ -6,6 +6,6 @@
     web page 
 </head>
 <body>
-    <a href="./home.html" target="_blank">cilck here</a>
+    <a href="./home.html" target="_blank">click here</a>
 </body>
 </html>
