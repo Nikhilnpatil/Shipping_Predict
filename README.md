@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>web page</title>
+    web page 
 </head>
 <body>
     <a href="./home.html" target="_blank">cilck here</a>
